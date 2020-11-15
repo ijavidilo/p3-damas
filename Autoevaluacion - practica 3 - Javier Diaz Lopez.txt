@@ -1,0 +1,29 @@
+Alumno:
+-------
+Javier Díaz López
+
+URL repositorio práctica: 
+-------------------------
+https://github.com/ijavidilo/p3-damas/tree/master
+	- **unitTestWithoutDoubles** -> https://github.com/ijavidilo/p3-damas/tree/unitTestWithoutDoubles
+	- **unitTestWithMockito** -> https://github.com/ijavidilo/p3-damas/tree/unitTestWithMockito
+
+Autoevaluación del alumno:
+--------------------------
+(Calificación: 9,5)
+
+Me salen test hasta por las orejas pero creo que ha sido y será uno de los puntos claves para mi día a día. Dos aspectos:	
+* Estudio: sobresaliente. (10)
+	He estudiado las horas estipuladas por Luis y creo que la planificación de esta tercera parte ha sido muy acertada. 
+* Implementaciones: sobresaliente. (9)
+	Me han quedado algunos test que realizar pero estoy muy contento con el resultado final y con lo entregado.
+
+Evaluación del profesor:
+------------------------
+(Calificación: 9,5)
+
+Lo menos bueno:
+	- No están explicitamente los requisitos escritos en el Aula Virtual como para anteriores prácticas. (en que git hay que crearlo, que nombre de las ramas...)
+Lo bueno:
+	- Su explicación sobre JUnit/Mockito ha sido brutal. Cuando he intentado entenderlos por mi mismo nunca llegué a entenderlos al 100%. 
+	- La planificación de esta parte me ha parecido muy acertada para interorizar todos los conceptos.
