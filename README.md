@@ -1,7 +1,7 @@
-# P3: Damas - Javier Diaz Lopez (parte 1: Pruebas unitarias sin dobles)
+# P3: Damas - Javier Diaz Lopez (parte 2: Pruebas unitarias con Mockito)
 
   * ## Anotaciones alumno: 
-  > Para realizar los tests de la práctica se ha empezado la implementación partiendo del codigo proporcionado por el profesor "solution.Java". Se han implementado todos los test unitarios sin dobles con JUnit para modelos y controladores.
+  > Para realizar los tests de la práctica se ha empezado la implementación partiendo de la rama anterior del alumno "unitTestWithoutDoubles". Se han implementado todos los test unitarios con Mockito para las vistas del juego de las damas.
 
 ## Modelo del Dominio
 Como jugar: https://www.youtube.com/watch?v=yFrAN-LFZRU
@@ -18,15 +18,15 @@ Entrega de un proyecto público en git varias ramas:
     * Modelo del dominio.
     * Instrucciones de entrega.
     * Requisitos: Puedes encontrar los requisitos en la carpeta /Damas de este mismo repositorio.
->* **unitTestWithoutDoubles**, con:
->    * solución en Java o similar (fuertemente tipado) basada en el capitulo de Diseño y el proyecto ticTacToe
->        * Modelo del Dominio: https://github.com/ijavidilo/p3-damas/tree/master#modelo-del-dominio
->        * Implementación: https://github.com/ijavidilo/p3-damas/tree/unitTestWithoutDoubles/solution.Java/src/main/java/usantatecla/draughts
->        * Test unitarios: https://github.com/ijavidilo/p3-damas/tree/unitTestWithoutDoubles/solution.Java/src/test/java/usantatecla/draughts
-* **unitTestWithMockito**, con:
+* **unitTestWithoutDoubles**, con:
     * solución en Java o similar (fuertemente tipado) basada en el capitulo de Diseño y el proyecto ticTacToe
         * Modelo del Dominio: https://github.com/ijavidilo/p3-damas/tree/master#modelo-del-dominio
-        * Implementación: https://github.com/ijavidilo/p3-damas/tree/unitTestWithMockito/solution.Java/src/main/java/usantatecla/draughts
-        * Test unitarios: https://github.com/ijavidilo/p3-damas/tree/unitTestWithMockito/solution.Java/src/test/java/usantatecla/draughts        
+        * Implementación: https://github.com/ijavidilo/p3-damas/tree/unitTestWithoutDoubles/solution.Java/src/main/java/usantatecla/draughts
+        * Test unitarios: https://github.com/ijavidilo/p3-damas/tree/unitTestWithoutDoubles/solution.Java/src/test/java/usantatecla/draughts
+>* **unitTestWithMockito**, con:
+>    * solución en Java o similar (fuertemente tipado) basada en el capitulo de Diseño y el proyecto ticTacToe
+>        * Modelo del Dominio: https://github.com/ijavidilo/p3-damas/tree/master#modelo-del-dominio
+>        * Implementación: https://github.com/ijavidilo/p3-damas/tree/unitTestWithMockito/solution.Java/src/main/java/usantatecla/draughts
+>        * Test unitarios: https://github.com/ijavidilo/p3-damas/tree/unitTestWithMockito/solution.Java/src/test/java/usantatecla/draughts        
 
 Master Cloud Apps curso 2020/21 [MasterCloudApps](https://www.codeurjc.es/mastercloudapps/).
