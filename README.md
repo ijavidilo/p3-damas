@@ -1,4 +1,4 @@
-# P3: Damas - Javier Diaz Lopez (parte 1: Pruebas unitarias sin dobles)
+# P3: Damas - Javier Diaz Lopez
 
   * ## Anotaciones alumno: 
   > Para realizar los tests de la práctica se ha empezado la implementación partiendo del codigo proporcionado por el profesor "solution.Java". 
